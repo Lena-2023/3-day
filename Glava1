@@ -1,0 +1,13 @@
+
+git clone
+Эта команда клонирует репозиторий в новую директорию. 
+git config — это удобная функция, которая используется для настройки значений конфигурации Git на глобальном и локальном уровнях проекта. Примеры команд:
+git config --local user.name "Name"
+git config --local user.email "your_email@example.com"
+ git config --global user.name "Name"
+ git config --global user.email "your_email@example.com"
+
+Если надо скопировать только файлы:
+git clone --depth=1 git://someserver/somerepo dirformynewrepo
+
+rm -rf !$/.git
