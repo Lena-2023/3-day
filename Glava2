@@ -1,4 +1,4 @@
-3/ git remote add
+3. git remote add
 Пример: git remote add origin https://github.com/MrKrishnaAgarwal/Git-CheatSheet.git
 Эта команда используется для добавления или подключения к удаленному репозиторию.
 
